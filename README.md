@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web dev and Game dev as well
 - 🌱 I’m currently learning some front-end techonolgies
 - 📫 You can contact me by this email : ralaivoavy.natanael@gmail.com
-- Checkout my portofio [here](https://nathanrael.portfolio.netlify.app)
+- Checkout my portfolio [here](https://nathanrael.portfolio.netlify.app)
 
 <!---
 NathanRael/NathanRael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
