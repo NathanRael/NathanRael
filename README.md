@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ralaivoavy.natanael@gmail.com**
 
-- ⚡ Fun fact **I love refactoring code that already works**
+- ⚡ Fun fact **I love developing a user-friendly Interface**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
