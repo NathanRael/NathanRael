@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js and Java**
 
-- 👨‍💻 All of my projects are available at [https://nathanrael-portfolio.netlify.app](https://nathanrael-portfolio.netlify.app)
+- 👨‍💻 Some of my projects are available at [https://nathanrael-portfolio.netlify.app](https://nathanrael-portfolio.netlify.app)
 
 - 💬 Ask me about **React js and Python**
 
