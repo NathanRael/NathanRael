@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanrael&label=Profile%20views&color=0e75b6&style=flat" alt="nathanrael" /> </p>
 
-- 🔭 I’m currently working on [a java fx application](https://github.com/NathanRael/Pharmacify.git)
+m
 
 - 🌱 I’m currently learning **Next js and Java**
 
