@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathanrael&label=Profile%20views&color=0e75b6&style=flat" alt="nathanrael" /> </p>
 
-m
 
-- 🌱 I’m currently learning **Next js and Java**
+- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 Some of my projects are available at [https://nathanrael-portfolio.netlify.app](https://nathanrael-portfolio.netlify.app)
 
