@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Natanael</h1>
+<h1 align="center">Hey there 👋, I'm Natanaël</h1>
 
 ###
 
