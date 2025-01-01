@@ -17,7 +17,7 @@
 ###
 
 <p align="left"
-  >- 📚 I'm currently learning React and Next js<br><br>- 👨‍💻 Some of my projects are available at https://nathanrael-portfolio.netlify.app<br><br>- 📫 How to reach me : 
+  >- 📚 I'm currently learning React and Next js<br><br>- 👨‍💻 Some of my projects are available at https://nathanrael.vercel.app<br><br>- 📫 How to reach me : 
   <div align="left">
   <a href="https://www.linkedin.com/in/natana%C3%ABl-ralaivoavy-694447283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
